@@ -16,8 +16,8 @@ namespace FittingShop
 
             var cts = new CancellationTokenSource();
 
-            //ShopSimulator simulator = new(4, 10);
-            //simulator.Start();
+            ShopSimulator simulator = new(4, 10);
+            simulator.Start();
         }
     }
 }

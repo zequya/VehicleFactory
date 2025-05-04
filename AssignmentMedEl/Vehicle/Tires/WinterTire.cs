@@ -20,7 +20,7 @@ namespace Vehicle.Tires
 
         public override string ToString()
         {
-            return $" And Winter-tires with:\n Pressure: {Pressure}\n MinTemperature: {_minTemperature}\n Thickness: {_thickness}";
+            return $" And Winter-tires with:{Environment.NewLine} Pressure: {Pressure}{Environment.NewLine} MinTemperature: {_minTemperature}{Environment.NewLine} Thickness: {_thickness}";
         }
     }
 }

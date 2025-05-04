@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{90643E6A-2512-437D-A07F-A5B169B61651}|Tests\\Tests.csproj|solutionrelative:tests\\showinformationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90643E6A-2512-437D-A07F-A5B169B61651}|Tests\\Tests.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{90643E6A-2512-437D-A07F-A5B169B61651}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FC3F9B62-77C1-4C5B-A949-7A79DB1FBB16}|Vehicle\\Vehicle.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\vehicle\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3F9B62-77C1-4C5B-A949-7A79DB1FBB16}|Vehicle\\Vehicle.csproj|solutionrelative:vehicle\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\fittingshop\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|solutionrelative:fittingshop\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC3F9B62-77C1-4C5B-A949-7A79DB1FBB16}|Vehicle\\Vehicle.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\vehicle\\tires\\wintertire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3F9B62-77C1-4C5B-A949-7A79DB1FBB16}|Vehicle\\Vehicle.csproj|solutionrelative:vehicle\\tires\\wintertire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3F9B62-77C1-4C5B-A949-7A79DB1FBB16}|Vehicle\\Vehicle.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\vehicle\\tires\\summertire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3F9B62-77C1-4C5B-A949-7A79DB1FBB16}|Vehicle\\Vehicle.csproj|solutionrelative:vehicle\\tires\\summertire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\fittingshop\\simulation\\customerarrivalscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|solutionrelative:fittingshop\\simulation\\customerarrivalscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\fittingshop\\fittingshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|solutionrelative:fittingshop\\fittingshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3F9B62-77C1-4C5B-A949-7A79DB1FBB16}|Vehicle\\Vehicle.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\vehicle\\vehicle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC3F9B62-77C1-4C5B-A949-7A79DB1FBB16}|Vehicle\\Vehicle.csproj|solutionrelative:vehicle\\vehicle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cs",
-              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\main.cs",
-              "RelativeDocumentMoniker": "FittingShop\\main.cs",
-              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\main.cs",
-              "RelativeToolTip": "FittingShop\\main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T16:09:29.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tests",
-              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Tests\\Tests.csproj",
-              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
-              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Tests\\Tests.csproj",
-              "RelativeToolTip": "Tests\\Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-04T15:52:42.166Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,9 +52,87 @@
               "RelativeDocumentMoniker": "Tests\\ShowInformationTest.cs",
               "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Tests\\ShowInformationTest.cs",
               "RelativeToolTip": "Tests\\ShowInformationTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T15:50:41.885Z",
+              "WhenOpened": "2025-05-04T17:57:00.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinterTire.cs",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Tires\\WinterTire.cs",
+              "RelativeDocumentMoniker": "Vehicle\\Tires\\WinterTire.cs",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Tires\\WinterTire.cs",
+              "RelativeToolTip": "Vehicle\\Tires\\WinterTire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:55:58.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerArrivalScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\Simulation\\CustomerArrivalScheduler.cs",
+              "RelativeDocumentMoniker": "FittingShop\\Simulation\\CustomerArrivalScheduler.cs",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\Simulation\\CustomerArrivalScheduler.cs",
+              "RelativeToolTip": "FittingShop\\Simulation\\CustomerArrivalScheduler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:54:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Vehicle\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Entities\\Car.cs",
+              "RelativeToolTip": "Vehicle\\Entities\\Car.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:47:47.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SummerTire.cs",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Tires\\SummerTire.cs",
+              "RelativeDocumentMoniker": "Vehicle\\Tires\\SummerTire.cs",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Tires\\SummerTire.cs",
+              "RelativeToolTip": "Vehicle\\Tires\\SummerTire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:47:42.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Vehicle.csproj",
+              "RelativeDocumentMoniker": "Vehicle\\Vehicle.csproj",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Vehicle.csproj",
+              "RelativeToolTip": "Vehicle\\Vehicle.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T16:16:20.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FittingShop",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\FittingShop.csproj",
+              "RelativeDocumentMoniker": "FittingShop\\FittingShop.csproj",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\FittingShop.csproj",
+              "RelativeToolTip": "FittingShop\\FittingShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-04T17:46:19.061Z",
               "EditorCaption": ""
             }
           ]

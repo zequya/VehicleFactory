@@ -18,7 +18,7 @@ namespace Vehicle.Tires
 
         public override string ToString()
         {
-            return $" And Summer-tires with:\n Pressure: {Pressure}\n MaxTemperature: {_maxTemperature}";
+            return $" And Summer-tires with:{Environment.NewLine} Pressure: {Pressure}{Environment.NewLine} MaxTemperature: {_maxTemperature}";
         }
     }
 }

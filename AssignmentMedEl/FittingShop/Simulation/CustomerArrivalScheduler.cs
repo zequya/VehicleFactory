@@ -39,7 +39,7 @@ namespace FittingShop.Simulation
                 Customer customer = new(i, car);
 
                 //Print arrival
-                _logger.Log($"Customer {customer.Id} has arrived. {customer.Car}\n{customer.Car.CarTire}");
+                _logger.Log($"Customer {customer.Id} has arrived. {customer.Car}{Environment.NewLine}{customer.Car.CarTire}");
 
                 try
                 {

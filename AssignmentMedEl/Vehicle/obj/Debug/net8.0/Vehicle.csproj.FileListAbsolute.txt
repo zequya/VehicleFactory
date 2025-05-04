@@ -1,0 +1,11 @@
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\bin\Debug\net8.0\Vehicle.deps.json
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\bin\Debug\net8.0\Vehicle.dll
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\bin\Debug\net8.0\Vehicle.pdb
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfo.cs
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.dll
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\refint\Vehicle.dll
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.pdb
+C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\ref\Vehicle.dll

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\fittingshop\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|solutionrelative:fittingshop\\logging\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\fittingshop\\simulation\\customerarrivalscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|solutionrelative:fittingshop\\simulation\\customerarrivalscheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|c:\\users\\domha\\documents\\github\\vehiclefactory\\assignmentmedel\\fittingshop\\simulation\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D326CFA7-F877-4C23-A83E-E9DA2AED203E}|FittingShop\\FittingShop.csproj|solutionrelative:fittingshop\\simulation\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\Logging\\Logger.cs",
+              "RelativeDocumentMoniker": "FittingShop\\Logging\\Logger.cs",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\Logging\\Logger.cs",
+              "RelativeToolTip": "FittingShop\\Logging\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:54:47.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\Simulation\\Customer.cs",
+              "RelativeDocumentMoniker": "FittingShop\\Simulation\\Customer.cs",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\Simulation\\Customer.cs",
+              "RelativeToolTip": "FittingShop\\Simulation\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:52:15.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerArrivalScheduler.cs",
+              "DocumentMoniker": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\Simulation\\CustomerArrivalScheduler.cs",
+              "RelativeDocumentMoniker": "FittingShop\\Simulation\\CustomerArrivalScheduler.cs",
+              "ToolTip": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\FittingShop\\Simulation\\CustomerArrivalScheduler.cs",
+              "RelativeToolTip": "FittingShop\\Simulation\\CustomerArrivalScheduler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T11:48:32.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

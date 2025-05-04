@@ -1,0 +1,14 @@
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\bin\Debug\net8.0\AssignmentMedEl.exe
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\bin\Debug\net8.0\AssignmentMedEl.deps.json
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\bin\Debug\net8.0\AssignmentMedEl.runtimeconfig.json
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\bin\Debug\net8.0\AssignmentMedEl.dll
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\bin\Debug\net8.0\AssignmentMedEl.pdb
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\AssignmentMedEl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\AssignmentMedEl.AssemblyInfoInputs.cache
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\AssignmentMedEl.AssemblyInfo.cs
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\AssignmentMedEl.csproj.CoreCompileInputs.cache
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\AssignmentMedEl.dll
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\refint\AssignmentMedEl.dll
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\AssignmentMedEl.pdb
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\AssignmentMedEl.genruntimeconfig.cache
+C:\Users\domha\Desktop\medel\AssignmentMedEl\AssignmentMedEl\obj\Debug\net8.0\ref\AssignmentMedEl.dll

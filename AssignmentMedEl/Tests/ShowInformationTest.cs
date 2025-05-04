@@ -13,6 +13,9 @@ namespace Tests
         
         private readonly Mutex _testMutex = new Mutex(false,"TestMutex");
 
+        /// <summary>
+        /// Tests the showInformation functionality of a car constructed with the default constructor
+        /// </summary>
         [Fact]
         public void Test_ShowInformation_Car_DefaultTire()
         {
@@ -43,6 +46,9 @@ namespace Tests
                
         }
 
+        /// <summary>
+        /// Tests the showInformation functionality of a motorcycle
+        /// </summary>
         [Fact]
         public void Test_ShowInformation_Motorcycle()
         {
@@ -72,6 +78,9 @@ namespace Tests
             
         }
 
+        /// <summary>
+        /// Tests the showInformation functionality of a car with custom winter tire
+        /// </summary>
         [Fact]
         public void Test_ShowInformation_Car_WinterTire()
         {

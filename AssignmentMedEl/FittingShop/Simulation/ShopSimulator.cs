@@ -1,48 +1,47 @@
-﻿using System;
-using System.Collections.Concurrent;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Concurrent;
 using FittingShop.Logging;
 
 namespace FittingShop.Simulation
 {
-    public class ShopSimulator
+    /// <summary>
+    /// Initializes a new instance of the <see cref="ShopSimulator"/> class.
+    /// Creates worker Threads.
+    /// Initializes <see cref="CustomerArrivalScheduler"/> and starts the arrival scheduling.
+    /// </summary>
+    /// <param name="workerCount">Number of worker Threads.</param>
+    /// <param name="totalCustomers">Total amount of customers to be handled.</param>
+    public class ShopSimulator(int workerCount, int totalCustomers)
     {
-        private readonly int _totalCustomers;
-        private readonly int _workerCount;
-        private readonly BlockingCollection<Customer> _queue = new BlockingCollection<Customer>();
-        private readonly CountdownEvent _latch;
+        private readonly int _totalCustomers = totalCustomers;
+        private readonly int _workerCount = workerCount;
+        private readonly BlockingCollection<Customer> _queue = [];
+        private readonly CountdownEvent _latch = new(totalCustomers);
 
-        public ShopSimulator(int workerCount, int totalCustomers)
-        {
-            _workerCount = workerCount;
-            _totalCustomers = totalCustomers;
-            _latch = new CountdownEvent(totalCustomers);
-        }
-
+        /// <summary>
+        /// Launches worker Threads and initiates the customer arrival.
+        /// Waits until all workers finish their tasks.
+        /// </summary>
+        /// <exception cref="Exception">Thrown if the simulation is interrupted.</exception>
         public void Start()
         {
             Logger logger = Logger.Instance;
             logger.SetStartTime(DateTime.UtcNow.Ticks);
             var tasks = new List<Task>();
-            // Start workers using Tasks
+
+            //Start workers
             for (int i = 0; i < _workerCount; i++)
             {
-                Worker worker = new Worker(_queue, _latch, logger);
+                Worker worker = new(_queue, _latch, logger);
                 tasks.Add(Task.Run(() => worker.Run()));
             }
 
-            // Start customer arrival
+            //Start customer arrival 
             var arrivalScheduler = new CustomerArrivalScheduler(_totalCustomers, _queue, logger);
-            arrivalScheduler.Start();
-
-            // Wait for all customers to be processed
+            arrivalScheduler.Start(); 
+            
+            //Wait for all workers to finish
             try
             {
-                _latch.Wait(); // Blocks until latch count reaches 0
-
                 Task.WaitAll([.. tasks]);
             }
             catch (Exception e)

@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Vehicle.Entities;
-
+﻿using Vehicle.Entities;
 
 namespace FittingShop.Simulation
 {
+    /// <summary>
+    /// Represents a simulated customer in the tire fitting shop.
+    /// Contains a unique ID and a car instance.
+    /// </summary>
     public class Customer(int id, Car car)
     {
         public int Id { get; set; } = id;

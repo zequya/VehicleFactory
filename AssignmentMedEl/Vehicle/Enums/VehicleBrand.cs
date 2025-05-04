@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Vehicle.Enums
+﻿namespace Vehicle.Enums
 {
+    /// <summary>
+    /// Defines supported vehicle brands.
+    /// </summary>
     public enum VehicleBrand
     {
         Toyota,
         KTM,
         Honda
     }
-    
+
 }

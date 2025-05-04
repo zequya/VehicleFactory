@@ -9,3 +9,15 @@ C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.dl
 C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\refint\Vehicle.dll
 C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.pdb
 C:\Users\domha\Desktop\medel\AssignmentMedEl\Vehicle\obj\Debug\net8.0\ref\Vehicle.dll
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\bin\Debug\net8.0\Vehicle.deps.json
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\bin\Debug\net8.0\Vehicle.dll
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\bin\Debug\net8.0\Vehicle.pdb
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfoInputs.cache
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.AssemblyInfo.cs
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.sourcelink.json
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.dll
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\refint\Vehicle.dll
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\Vehicle.pdb
+C:\Users\domha\Documents\GitHub\VehicleFactory\AssignmentMedEl\Vehicle\obj\Debug\net8.0\ref\Vehicle.dll

@@ -32,9 +32,6 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\AssignmentMedEl\\Vehicles.csproj": {
-                "projectPath": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\AssignmentMedEl\\Vehicles.csproj"
-              },
               "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Vehicle.csproj": {
                 "projectPath": "C:\\Users\\domha\\Documents\\GitHub\\VehicleFactory\\AssignmentMedEl\\Vehicle\\Vehicle.csproj"
               }

@@ -8,8 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "FittingShop/1.0.0": {
         "dependencies": {
-          "Vehicle": "1.0.0",
-          "Vehicles": "1.0.0"
+          "Vehicle": "1.0.0"
         },
         "runtime": {
           "FittingShop.dll": {}
@@ -18,14 +17,6 @@
       "Vehicle/1.0.0": {
         "runtime": {
           "Vehicle.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "Vehicles/1.0.0": {
-        "runtime": {
-          "Vehicles.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -40,11 +31,6 @@
       "sha512": ""
     },
     "Vehicle/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Vehicles/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

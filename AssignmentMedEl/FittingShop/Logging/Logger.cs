@@ -1,20 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FittingShop.Logging
+﻿namespace FittingShop.Logging
 {
+    /// <summary>
+    /// Provides a logger to print execution details with a timestamp
+    /// </summary>
     public class Logger
     {
         private static readonly Logger _instance = new();
         private long _startTime;
 
-        // Lock object for synchronization
+        // Lock for synchronization
         private readonly object _lock = new();
 
-        // Private constructor to enforce singleton
+        
         private Logger() { }
 
         public static Logger Instance => _instance;

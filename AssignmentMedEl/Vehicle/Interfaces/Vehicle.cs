@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Vehicle.Interfaces
+﻿namespace Vehicle.Interfaces
 {
+    /// <summary>
+    /// Interface for vehicles.
+    /// Provides a method to display vehicle information.
+    /// </summary>
     public interface IVehicle
     {
         void ShowInformation();

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Vehicle.Tires
 {
-    public class AbstractCarTire(float pressure)
+    /// <summary>
+    /// Base class for car tires.
+    /// Stores shared properties like tire pressure.
+    /// </summary>
+    /// <param name="pressure">The initial pressure of the tire.</param>
+    public abstract class AbstractCarTire(float pressure)
     {
         public float Pressure { get; set; } = pressure;
     }
